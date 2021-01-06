@@ -1,3 +1,4 @@
+//fail
 int k=0;
 int numberOfSteps (int num){
     while (num!=0){
